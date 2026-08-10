@@ -18,7 +18,7 @@
 - 💻 I build full-stack web applications with **React, Node.js, Express, and PostgreSQL**
 - 🚕 Currently proud of **Ride Bidding Platform** — a real-time ride-hailing app with live bidding via WebSockets
 - 📚 Also built **EdHub** — an online course management system with RBAC, JWT auth, and Prisma ORM
-- 🧩 Solved **150+ DSA problems** on LeetCode and counting
+- 🧩 Solved **200+ DSA problems** on LeetCode and counting
 - 🏏 When I'm not coding, you'll find me on the cricket field or helping out on the farm
 - 📫 Reach me at: **ankitchaudhary104507@gmail.com**
 
