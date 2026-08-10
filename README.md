@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ank-it45&label=Profile+Views&color=1ab0a1&style=flat-square" alt="profile views"/>
-  <a href="https://leetcode.com/Ank-it45"><img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-orange?style=flat-square&logo=leetcode" /></a>
+  <a href="https://leetcode.com/Ank-it45"><img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=flat-square&logo=leetcode" /></a>
 </p>
 
 ---
