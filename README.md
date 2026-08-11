@@ -86,13 +86,13 @@ A full-stack course management platform with secure JWT authentication, role-bas
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="http://www.linkedin.com/in/ankit-chaudhary-90455b294" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ankitchaudhary104507@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/Ank-it45" target="_blank">
+  <a href="https://leetcode.com/u/ankitc07/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
