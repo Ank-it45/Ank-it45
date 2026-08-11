@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Ankit Kumar Chaudhary</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | B.Tech CSE @ IMS Engineering College</h3>
+<h3 align="center">Full-Stack Web Developer | DSA Enthusiast | B.Tech CSE @ IMS Engineering College</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AB0A1&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL;Competitive+Programmer;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AB0A1&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL;Building+Real-World+Projects" />
 </p>
 
 <p align="center">
@@ -63,17 +63,6 @@ A full-stack course management platform with secure JWT authentication, role-bas
 - 🎓 Data Structures & Algorithms (C/C++) — Udemy (Abdul Bari), 2024–2025
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ank-it45&show_icons=true&theme=gruvbox&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ank-it45&theme=gruvbox&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ank-it45&layout=compact&theme=gruvbox&hide_border=true" width="45%" />
-</p>
 
 ### 🌍 Contribution Graph
 
