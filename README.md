@@ -35,7 +35,6 @@
 **Databases:** PostgreSQL
 **Tools:** Git, GitHub, Docker, REST APIs, Google Maps API, Postman
 **Core Competencies:** DSA, OOPs, OS, DBMS, Computer Networks, Web Development
-
 ---
 
 ### 🚀 Featured Projects
