@@ -24,7 +24,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 💼 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,redux,nodejs,express,postgres,prisma,docker,git,github,postman" />
@@ -35,6 +35,7 @@
 **Databases:** PostgreSQL
 **Tools:** Git, GitHub, Docker, REST APIs, Google Maps API, Postman
 **Core Competencies:** DSA, OOPs, OS, DBMS, Computer Networks, Web Development
+
 ---
 
 ### 🚀 Featured Projects
