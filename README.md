@@ -30,11 +30,11 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,redux,nodejs,express,postgres,prisma,docker,git,github,postman" />
 </p>
 
-**Languages:** C, C++, Core Java, JavaScript, HTML, CSS
-**Frameworks & Libraries:** React.js, Redux, Node.js, Express.js, EJS, Bootstrap, WebSockets, Prisma ORM
-**Databases:** PostgreSQL
-**Tools:** Git, GitHub, Docker, REST APIs, Google Maps API, Postman
-**Core Competencies:** DSA, OOPs, OS, DBMS, Computer Networks, Web Development
+**Languages:** C, C++, Core Java, JavaScript, HTML, CSS<br>
+**Frameworks & Libraries:** React.js, Redux, Node.js, Express.js, EJS, Bootstrap, WebSockets, Prisma ORM<br>
+**Databases:** PostgreSQL<br>
+**Tools:** Git, GitHub, Docker, REST APIs, Google Maps API, Postman<br>
+**Core Competencies:** DSA, OOPs, OS, DBMS, Computer Networks, Web Development<br>
 
 ---
 
