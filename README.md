@@ -40,19 +40,10 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Ank-it45/Ride-Bidding-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ank-it45&repo=Ride-Bidding-Platform&theme=gruvbox&hide_border=true" />
-  </a>
-  <a href="https://github.com/Ank-it45/EdHub-LMS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ank-it45&repo=EdHub&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-
-**🚕 Ride Bidding Platform**
+<a href="https://github.com/Ank-it45/Ride-Bidding-Platform">**🚕 Ride Bidding Platform**</a>
 A full-stack ride-hailing platform where drivers bid on rides based on price and vehicle type. Real-time ride requests and bid updates via WebSockets (Socket.io), Google Maps API integration for distance and tracking, and a scalable REST API backend for users, rides, and bidding.
 
-**📚 EdHub — Online Course Management System**
+<a href="https://github.com/Ank-it45/EdHub-LMS">**📚 EdHub — Online Course Management System**</a>
 A full-stack course management platform with secure JWT authentication, role-based access control (RBAC), Cloudinary-powered media uploads, and a relational schema managed with Prisma ORM covering users, courses, enrollments, and payments.
 
 ---
