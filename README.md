@@ -27,12 +27,12 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,redux,nodejs,express,postgres,mysql,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,redux,nodejs,express,postgres,prisma,docker,git,github,postman" />
 </p>
 
-**Languages:** C, C++, Core Java, JavaScript, TypeScript, HTML, CSS
-**Frameworks & Libraries:** React.js, Redux, Node.js, Express.js, EJS, Bootstrap, WebSockets
-**Databases:** PostgreSQL, MySQL
+**Languages:** C, C++, Core Java, JavaScript, HTML, CSS
+**Frameworks & Libraries:** React.js, Redux, Node.js, Express.js, EJS, Bootstrap, WebSockets, Prisma ORM
+**Databases:** PostgreSQL
 **Tools:** Git, GitHub, Docker, REST APIs, Google Maps API, Postman
 **Core Competencies:** DSA, OOPs, OS, DBMS, Computer Networks, Web Development
 
@@ -44,7 +44,7 @@
   <a href="https://github.com/Ank-it45/Ride-Bidding-Platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ank-it45&repo=Ride-Bidding-Platform&theme=gruvbox&hide_border=true" />
   </a>
-  <a href="https://github.com/Ank-it45/EdHub">
+  <a href="https://github.com/Ank-it45/EdHub-LMS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ank-it45&repo=EdHub&theme=gruvbox&hide_border=true" />
   </a>
 </p>
