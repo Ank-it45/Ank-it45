@@ -40,10 +40,10 @@
 
 ### 🚀 Featured Projects
 
-<a href="https://github.com/Ank-it45/Ride-Bidding-Platform">**🚕 Ride Bidding Platform**</a>
+<a href="https://github.com/Ank-it45/Brisk-A-Ride-Bidding-System">**🚕 Brisk - A Ride Bidding System**</a>
 A full-stack ride-hailing platform where drivers bid on rides based on price and vehicle type. Real-time ride requests and bid updates via WebSockets (Socket.io), Google Maps API integration for distance and tracking, and a scalable REST API backend for users, rides, and bidding.
 
-<a href="https://github.com/Ank-it45/EdHub-LMS">**📚 EdHub — Online Course Management System**</a>
+<a href="https://github.com/Ank-it45/EdHub-LMS">**📚 EdHub - Online Course Management System**</a>
 A full-stack course management platform with secure JWT authentication, role-based access control (RBAC), Cloudinary-powered media uploads, and a relational schema managed with Prisma ORM covering users, courses, enrollments, and payments.
 
 ---
